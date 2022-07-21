@@ -1,0 +1,9 @@
+/* Just for visual representation while coding */
+div { 
+    border: #BADA55 solid 2px;
+}
+.gridContainer {
+    display: grid;
+    grid-template-columns: repeat(16, 1fr);
+    grid-template-rows: repeat(16, 1fr);
+}
