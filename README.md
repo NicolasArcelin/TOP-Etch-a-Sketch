@@ -1,2 +1,4 @@
 # Etch-a-Sketch
-Odin Projects
+
+I am currently teaching myself how to code through The Odin Project.
+Linked Here: https://www.theodinproject.com/
